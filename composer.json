@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "MGGFLOW\\Images\\Hashing\\Perceptual": "src/"
+            "MGGFLOW\\Images\\Hashing\\Perceptual\\": "src/"
         }
     },
     "authors": [
