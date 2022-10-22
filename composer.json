@@ -1,0 +1,27 @@
+{
+    "name": "mggflow/perceptual-img-hashing",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MGGFLOW\\Images\\Hashing\\Perceptual": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Eliseev",
+            "email": "deusagnis@gmail.com",
+            "homepage": "https://mggflow.in",
+            "role": "Developer"
+        },
+        {
+            "name": "Nikita Kukin",
+            "email": "workkukin@gmail.com",
+            "homepage": "https://vk.com/oxeek",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+
+    }
+}
